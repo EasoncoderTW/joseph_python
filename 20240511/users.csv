@@ -1,0 +1,9 @@
+name,age,gender,job,height
+alice,19,F,student,165.0
+john,26,M,student,180.0
+eric,22,M,student,171.0
+paul,58,M,manager,192.0
+bill,33,M,engineer,
+peter,48,M,CTO,
+julie,44,F,CFO,175.0
+lucy,52,F,CEO,
